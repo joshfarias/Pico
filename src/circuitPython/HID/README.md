@@ -4,6 +4,10 @@ This project is based on the following GitHub Repo:
 
 https://github.com/dbisu/pico-ducky
 
+The payload was created by SurfKahuna (RJC)
+
+The payload targets Windows computers. First it opens up Notepad using Run and draws Bart Simpson in ASCII characters then writes the message: "I will learn to lock my computer." several times before locking the computer.
+
 ## Steps:
 
   - Download the latest [CircuitPython](https://circuitpython.org/board/raspberry_pi_pico/) firmware and the [Adafruit HID library](https://github.com/adafruit/Adafruit_CircuitPython_HID/releases), you should have a `.UF2` file and a `.ZIP` file.
